@@ -1,3 +1,4 @@
+package foundationjava;
 public class launch2 {
     public static void main(String[] args) {
         int n = 4;
