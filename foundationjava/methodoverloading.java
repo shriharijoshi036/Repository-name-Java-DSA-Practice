@@ -15,7 +15,7 @@ class AddCalc {
     }
 }
 
-public class multithreading {
+public class methodoverloading {
 
     public static void main(String[] args) {
 
