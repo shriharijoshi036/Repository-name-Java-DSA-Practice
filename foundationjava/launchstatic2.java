@@ -14,19 +14,10 @@ class School{
     System.out.println("name : " + studentName+ ", ID :" +id + ", schoolName :"+ schoolName);
     totalStudents++;
  }
-
- 
  static void showtotalStudents(){
     System.out.println("totalStudents : " + totalStudents);
  }
-
- 
- }
-
-
-    
-
-
+}
 public class launchstatic2 {
     public static void main(String[] args) {
         School.showtotalStudents();
