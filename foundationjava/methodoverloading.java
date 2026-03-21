@@ -1,3 +1,5 @@
+package foundationjava;
+
 class AddCalc {
 
     int add(int a, int b) {
