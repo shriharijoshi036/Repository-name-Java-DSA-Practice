@@ -25,6 +25,7 @@ class Monkey extends Animal{
         System.out.println("Monkey steals and running");
     }
 }
+//creating parent reference class
 class Forest{
     public void permit(Animal animal){
         animal.eat();
