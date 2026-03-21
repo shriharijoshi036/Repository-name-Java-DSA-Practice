@@ -1,3 +1,5 @@
+package foundationjava;
+
 class Demo{
     static int a,b,c;
 

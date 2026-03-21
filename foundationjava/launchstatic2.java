@@ -1,3 +1,5 @@
+package foundationjava;
+
 class School{
     String studentName;
     int id;
