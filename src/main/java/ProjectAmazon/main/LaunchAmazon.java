@@ -1,6 +1,6 @@
-package main;
+package ProjectAmazon.main;
 
-import services.Fedex;
+import ProjectAmazon.main.services.Fedex;
 
 public class LaunchAmazon {
     public static void main(String[] args) {

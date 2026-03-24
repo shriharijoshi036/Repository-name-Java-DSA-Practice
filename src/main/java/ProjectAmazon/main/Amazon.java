@@ -1,6 +1,6 @@
-package main;
+package ProjectAmazon.main;
 
-import services.IDeliveryService;
+import ProjectAmazon.main.services.IDeliveryService;
 
 public class Amazon {
     public Amazon(IDeliveryService service){

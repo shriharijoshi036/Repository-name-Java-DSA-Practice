@@ -1,4 +1,4 @@
-package services;
+package ProjectAmazon.main.services;
 
 public class Fedex implements IDeliveryService{
     @Override
