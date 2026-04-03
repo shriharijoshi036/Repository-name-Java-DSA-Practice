@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b4357d67-2bae-433f-a61a-9d84af46c9b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicMaths/checkAmstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicMaths/checkAmstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicMaths/checkDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicMaths/checkDivisors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BasicRecursion.executor": "Run",
+    "Application.BasicRecursion1.executor": "Run",
+    "Application.BasicRecursion2.executor": "Run",
+    "Application.BasicRecursion3.executor": "Run",
+    "Application.BasicRecursion4.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.checkAmstrong.executor": "Run",
     "Application.checkDivisors.executor": "Run",
