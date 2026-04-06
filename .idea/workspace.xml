@@ -50,6 +50,7 @@
     "Application.BasicRecursion3.executor": "Run",
     "Application.BasicRecursion4.executor": "Run",
     "Application.BasicRecursion5.executor": "Run",
+    "Application.BasicRecursion6.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.checkAmstrong.executor": "Run",
     "Application.checkDivisors.executor": "Run",
