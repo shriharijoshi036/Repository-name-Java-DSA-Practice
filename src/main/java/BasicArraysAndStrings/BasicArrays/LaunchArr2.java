@@ -1,4 +1,4 @@
-package BasicArrays;
+package BasicArraysAndStrings.BasicArrays;
 
 import java.util.Scanner;
 
