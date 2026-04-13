@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4357d67-2bae-433f-a61a-9d84af46c9b9" name="Changes" comment="" />
+    <list default="true" id="b4357d67-2bae-433f-a61a-9d84af46c9b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,8 +54,12 @@
     "Application.CheckArraySorted.executor": "Debug",
     "Application.CheckPalindrome.executor": "Run",
     "Application.CheckStringPalindrome.executor": "Run",
+    "Application.DeadLockThread.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.LaunchArr2.executor": "Run",
+    "Application.LaunchThread1.executor": "Run",
+    "Application.LaunchThread2.executor": "Run",
+    "Application.LaunchThread3.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.checkAmstrong.executor": "Run",
     "Application.checkDivisors.executor": "Run",
@@ -71,9 +77,17 @@
     "onboarding.tips.debug.path": "D:/Users/DELL/DSAPractice/DSAPractice/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Mercurial"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DSAPracticeExcerise\DSAFoundatin\src\main\java\BasicArraysAndStrings" />
+      <recent name="C:\DSAPracticeExcerise\DSAFoundatin\foundationjava" />
+      <recent name="C:\DSAPracticeExcerise\DSAFoundatin" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b4357d67-2bae-433f-a61a-9d84af46c9b9" name="Changes" comment="" />
