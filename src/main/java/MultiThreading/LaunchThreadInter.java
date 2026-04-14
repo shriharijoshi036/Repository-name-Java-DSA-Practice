@@ -1,0 +1,76 @@
+package MultiThreading;
+
+class Producer extends Thread {
+    Queue q;
+    int i = 1;
+    public  Producer(Queue q) {
+        this.q = q;
+    }
+    @Override
+    public void run() {
+        while (true) {
+            q.produce(i++);
+        }
+    }
+}
+class Consumer extends Thread
+{
+    Queue q;
+    public  Consumer(Queue q)
+    {
+        this.q=q;
+    }
+    @Override
+    public void run() {
+        while(true){
+            q.consume();
+        }
+    }
+}
+class Queue {
+    int data;
+    boolean flag = false;
+   synchronized public void produce(int i) {
+
+        try {
+            if (flag == true) {
+                wait();
+            } else {
+                data = i;
+                System.out.println("I have produced data" + data);
+                flag = true;
+                notify();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+   synchronized public void consume() {
+        try {
+            if(flag==false){
+                wait();
+            }else {
+                System.out.println("I have consumed data" + data);
+                flag = false;
+                notify();
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+
+public class LaunchThreadInter {
+    public static void main(String[] args) {
+        Queue q = new Queue();
+
+        Producer p = new Producer(q);
+        Consumer c = new Consumer(q);
+
+        p.start();
+        c.start();
+
+    }
+}
