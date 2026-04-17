@@ -71,6 +71,8 @@
     "Application.countDigit.executor": "Run",
     "Application.launchArr3.executor": "Run",
     "Application.launchInsertion.executor": "Run",
+    "Application.launchMergeS.executor": "Run",
+    "Application.launchQuickS.executor": "Run",
     "Application.launcharr1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
