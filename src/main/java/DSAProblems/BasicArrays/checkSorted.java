@@ -1,4 +1,4 @@
-package DSAProblems.EasyArrayProblem;
+package DSAProblems.BasicArrays;
 
 import java.util.Scanner;
 
