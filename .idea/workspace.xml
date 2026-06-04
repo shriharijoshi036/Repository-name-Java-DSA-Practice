@@ -88,6 +88,8 @@
     "Application.MaximumConsecutiveOnes.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingNumberPattern2.executor": "Run",
+    "Application.MoveZeros.executor": "Run",
+    "Application.MyThread.executor": "Run",
     "Application.NextPermutation.executor": "Run",
     "Application.NumAppearOnceOtherTwice.executor": "Run",
     "Application.OptimalLeadersInAnArray.executor": "Run",
@@ -173,11 +175,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
