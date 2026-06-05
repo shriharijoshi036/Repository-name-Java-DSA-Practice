@@ -106,6 +106,7 @@
     "Application.SpiralMatrix.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.UnionSortedArray.executor": "Run",
+    "Application.ValidPalindrome.executor": "Run",
     "Application.checkAmstrong.executor": "Run",
     "Application.checkDivisors.executor": "Run",
     "Application.checkPalindrome.executor": "Run",
